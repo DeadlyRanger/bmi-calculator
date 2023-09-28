@@ -11,7 +11,7 @@
    var a = weight.value;
    var b = height.value;
 
-    var  c = a/b*b;
+    var  c = a/(b*b);
       
       if( a>=0 && b>=0){
 
